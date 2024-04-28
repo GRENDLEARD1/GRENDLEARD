@@ -144,7 +144,7 @@ input, select, textarea {
 		}
 
 	body {
-		color: #212931;
+		color: #ffffff;
 	}
 
 	body, input, select, textarea {
@@ -298,15 +298,15 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #18bfef !important;
+			color: #a6c9e8 !important;
 		}
 
 	strong, b {
-		color: #212931;
+		color: #ffffff;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #212931;
+		color: #ffffff;
 	}
 
 	blockquote {
@@ -2206,8 +2206,8 @@ input, select, textarea {
 	button,
 	.button {
 		background-color: transparent;
-		box-shadow: inset 0 0 0 2px #212931;
-		color: #212931 !important;
+		box-shadow: inset 0 0 0 2px #ffffff;
+		color: #ffffff !important;
 	}
 
 		input[type="submit"]:hover,
@@ -2215,8 +2215,8 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			box-shadow: inset 0 0 0 2px #18bfef;
-			color: #18bfef !important;
+			box-shadow: inset 0 0 0 2px #414b88;
+			color: #3b5cdc !important;
 		}
 
 		input[type="submit"].primary,
@@ -2890,7 +2890,7 @@ input, select, textarea {
 	}
 
 	ul.icons li a.icon:hover:before {
-		color: #18bfef;
+		color: #ffffff;
 	}
 
 	ul.icons.alt li .icon:before {
@@ -2898,7 +2898,7 @@ input, select, textarea {
 	}
 
 	ul.icons.alt li a.icon:hover:before {
-		box-shadow: inset 0 0 0 2px #18bfef;
+		box-shadow: inset 0 0 0 2px #ffffff;
 	}
 
 /* Section/Article */
@@ -3197,14 +3197,14 @@ input, select, textarea {
 	}
 
 		.pagination a:hover {
-			color: #18bfef !important;
-			border-color: #18bfef;
+			color: #ffffff !important;
+			border-color: #f7fdff;
 			z-index: 1;
 		}
 
 			.pagination a:hover + a,
 			.pagination a:hover + span {
-				border-left-color: #18bfef;
+				border-left-color: #ffffff;
 			}
 
 		.pagination a.active {
@@ -3324,7 +3324,7 @@ input, select, textarea {
 
 			#intro a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: #ffffff !important;
 			}
 
 		#intro strong, #intro b {
@@ -3382,7 +3382,7 @@ input, select, textarea {
 				#intro input[type="button"].primary:hover,
 				#intro button.primary:hover,
 				#intro .button.primary:hover {
-					background-color: #18bfef;
+					background-color: #ffffff;
 				}
 
 		#intro h1 {
@@ -3577,8 +3577,8 @@ input, select, textarea {
 		}
 
 			#header .logo:hover {
-				border-color: #18bfef !important;
-				color: #18bfef !important;
+				border-color: #88cbd3 !important;
+				color: #ace7de !important;
 			}
 
 		@media screen and (max-width: 980px) {
@@ -3632,7 +3632,7 @@ input, select, textarea {
 		}
 
 		#nav ul.icons li a.icon:hover:before {
-			color: #18bfef;
+			color: #fbfbfb;
 		}
 
 		#nav ul.icons.alt li .icon:before {
@@ -3640,7 +3640,7 @@ input, select, textarea {
 		}
 
 		#nav ul.icons.alt li a.icon:hover:before {
-			box-shadow: inset 0 0 0 2px #18bfef;
+			box-shadow: inset 0 0 0 2px #ffffff;
 		}
 
 		#nav input, #nav select, #nav textarea {
@@ -3649,12 +3649,12 @@ input, select, textarea {
 
 		#nav a {
 			color: #ffffff;
-			border-bottom-color: rgba(255, 255, 255, 0.5);
+			border-bottom-color: rgba(190, 173, 173, 0.5);
 		}
 
 			#nav a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: #ffffff !important;
 			}
 
 		#nav strong, #nav b {
@@ -3862,7 +3862,7 @@ input, select, textarea {
 			}
 
 			#main > .posts > article {
-				border-color: #eeeeee;
+				border-color: #e1e1e10e;
 				border-left-width: 2px;
 				border-style: solid;
 				border-top-width: 2px;
